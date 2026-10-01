@@ -1,0 +1,448 @@
+{
+  "web": [
+    {
+      "title": "Chennai Metro Rail Phase 2 — corridors, stations and progress",
+      "link": "https://en.wikipedia.org/wiki/Chennai_Metro",
+      "snippet": "Phase 2 of Chennai Metro adds three corridors — Madhavaram to SIPCOT, Poonamallee to Light House, and Madhavaram to Sholinganallur — roughly 116 km of new line and more than 120 stations, making it one of the largest metro expansions in India.",
+      "tags": ["chennai metro phase 2 route map", "chennai metro stations", "poonamallee porur metro"],
+      "sitelinks": [
+        { "title": "Phase 1 network", "link": "https://en.wikipedia.org/wiki/Chennai_Metro#Phase_I" },
+        { "title": "Phase 2 corridors", "link": "https://en.wikipedia.org/wiki/Chennai_Metro#Phase_II" }
+      ]
+    },
+    {
+      "title": "Chennai Metro Rail Limited — official site",
+      "link": "https://chennaimetrorail.org/",
+      "snippet": "Official information from CMRL: timetables, fares, station facilities, travel cards, parking, and project updates for Phase 1 and the Phase 2 corridors under construction.",
+      "tags": ["chennai metro timings", "chennai metro fare", "cmrl travel card"]
+    },
+    {
+      "title": "Chennai — capital of Tamil Nadu",
+      "link": "https://en.wikipedia.org/wiki/Chennai",
+      "snippet": "Chennai, formerly Madras, is the capital of Tamil Nadu and one of India's largest cities. It is known for its automobile industry, IT corridor along OMR, Marina Beach, Carnatic music season and classical Bharatanatyam.",
+      "tags": ["places to visit in chennai", "marina beach", "chennai weather"]
+    },
+    {
+      "title": "Marina Beach, Chennai",
+      "link": "https://en.wikipedia.org/wiki/Marina_Beach",
+      "snippet": "Marina Beach is a natural urban beach along the Bay of Bengal in Chennai, running about 6 km from Fort St. George to Foreshore Estate. It is one of the longest urban beaches in the world.",
+      "tags": ["places to visit in chennai", "besant nagar beach"]
+    },
+    {
+      "title": "Kanchipuram silk saree — history and weaving",
+      "link": "https://en.wikipedia.org/wiki/Kanchipuram_silk_sari",
+      "snippet": "Kanchipuram silk sarees are woven from pure mulberry silk in Kanchipuram, Tamil Nadu. They are known for heavy zari borders, contrasting pallus and temple motifs, and hold a Geographical Indication tag.",
+      "tags": ["kanchipuram silk sarees price", "how to identify pure kanchipuram silk", "kanchipuram temples"]
+    },
+    {
+      "title": "Kanchipuram — the city of a thousand temples",
+      "link": "https://en.wikipedia.org/wiki/Kanchipuram",
+      "snippet": "Kanchipuram, about 70 km from Chennai, is famous for Ekambareswarar, Kailasanathar and Varadharaja Perumal temples, and for its hand-woven silk industry.",
+      "tags": ["kanchipuram temples", "kanchipuram silk sarees"]
+    },
+    {
+      "title": "Mahabalipuram — Group of Monuments (UNESCO)",
+      "link": "https://whc.unesco.org/en/list/249/",
+      "snippet": "The Group of Monuments at Mahabalipuram, carved by the Pallava kings in the 7th and 8th centuries, includes the Shore Temple, the rathas, and the open-air rock relief known as Arjuna's Penance.",
+      "tags": ["shore temple", "places to visit near chennai"]
+    },
+    {
+      "title": "Spring Boot — reference documentation",
+      "link": "https://docs.spring.io/spring-boot/index.html",
+      "snippet": "Spring Boot makes it easy to create stand-alone, production-grade Spring applications that you can just run. It takes an opinionated view of the Spring platform so you can get started with minimum configuration.",
+      "tags": ["spring boot tutorial", "spring boot vs fastapi", "spring boot release notes"],
+      "sitelinks": [
+        { "title": "Getting started", "link": "https://docs.spring.io/spring-boot/tutorial/first-application/index.html" },
+        { "title": "Reference", "link": "https://docs.spring.io/spring-boot/reference/index.html" }
+      ]
+    },
+    {
+      "title": "Spring Boot 3.3 release notes",
+      "link": "https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.3-Release-Notes",
+      "snippet": "Spring Boot 3.3 adds support for Class Data Sharing, improved observability, virtual thread support in more places, Bitnami container image support for service connections, and many dependency upgrades.",
+      "tags": ["spring boot release notes", "spring boot virtual threads"]
+    },
+    {
+      "title": "FastAPI — modern, fast web framework for building APIs with Python",
+      "link": "https://fastapi.tiangolo.com/",
+      "snippet": "FastAPI is a high-performance web framework for building APIs with Python based on standard type hints. It gives automatic interactive docs, request validation with Pydantic, and async support out of the box.",
+      "tags": ["fastapi tutorial", "fastapi vs flask", "fastapi deployment"],
+      "sitelinks": [
+        { "title": "Tutorial — User guide", "link": "https://fastapi.tiangolo.com/tutorial/" },
+        { "title": "Deployment", "link": "https://fastapi.tiangolo.com/deployment/" }
+      ]
+    },
+    {
+      "title": "FastAPI tutorial — first steps",
+      "link": "https://fastapi.tiangolo.com/tutorial/first-steps/",
+      "snippet": "Create a FastAPI app in a single file, declare a path operation with a decorator, and run it with uvicorn. Open /docs to get automatic Swagger UI for every endpoint you write.",
+      "tags": ["fastapi tutorial", "uvicorn"]
+    },
+    {
+      "title": "Uvicorn — an ASGI web server for Python",
+      "link": "https://www.uvicorn.org/",
+      "snippet": "Uvicorn is a lightning-fast ASGI server implementation using uvloop and httptools. It is the usual way to run FastAPI and Starlette applications in development and production.",
+      "tags": ["fastapi deployment", "gunicorn uvicorn workers"]
+    },
+    {
+      "title": "Flask — a lightweight WSGI web application framework",
+      "link": "https://flask.palletsprojects.com/",
+      "snippet": "Flask is a lightweight Python web framework designed to make getting started quick and easy, with the ability to scale up to complex applications.",
+      "tags": ["fastapi vs flask", "django vs flask"]
+    },
+    {
+      "title": "Django — the web framework for perfectionists with deadlines",
+      "link": "https://www.djangoproject.com/",
+      "snippet": "Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. It ships with an ORM, admin site, authentication and forms.",
+      "tags": ["django vs flask", "django rest framework"]
+    },
+    {
+      "title": "Python — official website",
+      "link": "https://www.python.org/",
+      "snippet": "Python is a programming language that lets you work quickly and integrate systems more effectively. Download the latest release, read the docs, and find tutorials for beginners.",
+      "tags": ["python tutorial", "python virtual environment", "python list comprehension"],
+      "sitelinks": [
+        { "title": "Downloads", "link": "https://www.python.org/downloads/" },
+        { "title": "Documentation", "link": "https://docs.python.org/3/" }
+      ]
+    },
+    {
+      "title": "venv — creation of virtual environments (Python docs)",
+      "link": "https://docs.python.org/3/library/venv.html",
+      "snippet": "The venv module creates lightweight virtual environments, each with its own independent set of Python packages installed in its site directories. Run python -m venv .venv, then activate it.",
+      "tags": ["python virtual environment", "pip install requirements"]
+    },
+    {
+      "title": "React — the library for web and native user interfaces",
+      "link": "https://react.dev/",
+      "snippet": "React lets you build user interfaces out of individual pieces called components written in JavaScript. Learn React with interactive tutorials, and read the API reference for hooks like useState and useEffect.",
+      "tags": ["react hooks", "react useeffect", "react vs vue"],
+      "sitelinks": [
+        { "title": "Quick start", "link": "https://react.dev/learn" },
+        { "title": "Hooks reference", "link": "https://react.dev/reference/react/hooks" }
+      ]
+    },
+    {
+      "title": "Built-in React Hooks — useState, useEffect, useRef",
+      "link": "https://react.dev/reference/react/hooks",
+      "snippet": "Hooks let you use different React features from your components. State hooks remember information, Effect hooks connect to external systems, and Ref hooks hold values that don't trigger re-renders.",
+      "tags": ["react hooks", "react useeffect", "react useref"]
+    },
+    {
+      "title": "Vite — next generation frontend tooling",
+      "link": "https://vite.dev/",
+      "snippet": "Vite is a blazing fast frontend build tool with instant server start, lightning-fast hot module replacement, and optimized production builds powered by Rollup.",
+      "tags": ["vite react setup", "vite proxy", "vite vs webpack"]
+    },
+    {
+      "title": "JavaScript — MDN Web Docs",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "snippet": "JavaScript is a lightweight, interpreted, just-in-time compiled language with first-class functions. MDN covers the language guide, reference for every built-in object, and browser APIs.",
+      "tags": ["javascript promises", "javascript fetch api", "javascript array methods"]
+    },
+    {
+      "title": "Using the Fetch API — MDN",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch",
+      "snippet": "The Fetch API provides a JavaScript interface for making HTTP requests and processing responses. Pass an AbortController signal to cancel an in-flight request.",
+      "tags": ["javascript fetch api", "abortcontroller"]
+    },
+    {
+      "title": "TypeScript — JavaScript with syntax for types",
+      "link": "https://www.typescriptlang.org/",
+      "snippet": "TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.",
+      "tags": ["typescript vs javascript", "typescript tutorial"]
+    },
+    {
+      "title": "Node.js — run JavaScript everywhere",
+      "link": "https://nodejs.org/",
+      "snippet": "Node.js is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+      "tags": ["node js download", "npm install", "node vs deno"]
+    },
+    {
+      "title": "Tailwind CSS — rapidly build modern websites",
+      "link": "https://tailwindcss.com/",
+      "snippet": "Tailwind CSS is a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.",
+      "tags": ["tailwind css tutorial", "tailwind vs bootstrap"]
+    },
+    {
+      "title": "CSS Grid Layout — MDN",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout",
+      "snippet": "CSS grid layout introduces a two-dimensional grid system to CSS. Grids can be used to lay out major page areas or small user interface elements.",
+      "tags": ["css grid vs flexbox", "css masonry layout"]
+    },
+    {
+      "title": "Docker — develop faster, run anywhere",
+      "link": "https://www.docker.com/",
+      "snippet": "Docker helps developers build, share, run and verify applications anywhere, without tedious environment configuration. Package an app and its dependencies into a portable container image.",
+      "tags": ["docker compose", "dockerfile best practices", "docker vs kubernetes"]
+    },
+    {
+      "title": "Dockerfile reference",
+      "link": "https://docs.docker.com/reference/dockerfile/",
+      "snippet": "A Dockerfile is a text document that contains all the commands a user could call to assemble an image. Multi-stage builds let you keep build tools out of the final image.",
+      "tags": ["dockerfile best practices", "multi stage docker build"]
+    },
+    {
+      "title": "Kubernetes — production-grade container orchestration",
+      "link": "https://kubernetes.io/",
+      "snippet": "Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.",
+      "tags": ["docker vs kubernetes", "kubectl commands"]
+    },
+    {
+      "title": "PostgreSQL — the world's most advanced open source database",
+      "link": "https://www.postgresql.org/",
+      "snippet": "PostgreSQL is a powerful, open source object-relational database system with over 35 years of active development and a strong reputation for reliability, feature robustness, and performance.",
+      "tags": ["postgres vs mysql", "postgres unique constraint", "sqlite vs postgres"]
+    },
+    {
+      "title": "SQLite — small, fast, self-contained SQL database engine",
+      "link": "https://www.sqlite.org/",
+      "snippet": "SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured SQL database engine. It is the most used database engine in the world.",
+      "tags": ["sqlite vs postgres", "sqlite full text search"]
+    },
+    {
+      "title": "Redis — the real-time data platform",
+      "link": "https://redis.io/",
+      "snippet": "Redis is an in-memory data store used as a database, cache, message broker and streaming engine. SET with NX and PX gives an atomic expiring lock.",
+      "tags": ["redis cache", "redis distributed lock"]
+    },
+    {
+      "title": "Git — distributed version control",
+      "link": "https://git-scm.com/",
+      "snippet": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
+      "tags": ["git rebase vs merge", "git undo last commit", "github"]
+    },
+    {
+      "title": "GitHub — where the world builds software",
+      "link": "https://github.com/",
+      "snippet": "GitHub is a platform for hosting code, reviewing pull requests, running CI with Actions, and collaborating on open-source and private projects.",
+      "tags": ["github actions", "git rebase vs merge"]
+    },
+    {
+      "title": "Linux — the Linux Kernel Archives",
+      "link": "https://www.kernel.org/",
+      "snippet": "The Linux kernel is a free and open-source Unix-like operating system kernel. Browse stable releases, mainline, and long-term support kernels.",
+      "tags": ["linux commands", "ubuntu vs debian"]
+    },
+    {
+      "title": "Rust — a language empowering everyone to build reliable software",
+      "link": "https://www.rust-lang.org/",
+      "snippet": "Rust is blazingly fast and memory-efficient, with no runtime or garbage collector. Its ownership model guarantees memory-safety and thread-safety at compile time.",
+      "tags": ["rust vs go", "rust book"]
+    },
+    {
+      "title": "The Go programming language",
+      "link": "https://go.dev/",
+      "snippet": "Go is an open source programming language that makes it simple to build secure, scalable systems, with goroutines and channels for concurrency built into the language.",
+      "tags": ["rust vs go", "go tutorial"]
+    },
+    {
+      "title": "Java — Oracle / OpenJDK",
+      "link": "https://openjdk.org/",
+      "snippet": "OpenJDK is the open-source reference implementation of the Java Platform, Standard Edition. Java 21 is a long-term support release with virtual threads and record patterns.",
+      "tags": ["java 21 features", "spring boot tutorial"]
+    },
+    {
+      "title": "Okapi BM25 — ranking function used by search engines",
+      "link": "https://en.wikipedia.org/wiki/Okapi_BM25",
+      "snippet": "BM25 is a bag-of-words ranking function that scores documents by query-term frequency, inverse document frequency and document length. It is the default scoring in Lucene and Elasticsearch.",
+      "tags": ["how search engines work", "tf idf", "elasticsearch"]
+    },
+    {
+      "title": "Elasticsearch — distributed search and analytics engine",
+      "link": "https://www.elastic.co/elasticsearch",
+      "snippet": "Elasticsearch is a distributed, RESTful search and analytics engine built on Apache Lucene, used for full-text search, logging and observability.",
+      "tags": ["how search engines work", "elasticsearch vs postgres full text"]
+    },
+    {
+      "title": "Machine learning — Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Machine_learning",
+      "snippet": "Machine learning is a field of study in artificial intelligence concerned with statistical algorithms that learn from data and generalise to unseen data, performing tasks without explicit instructions.",
+      "tags": ["large language models", "machine learning vs deep learning"]
+    },
+    {
+      "title": "Large language model — Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Large_language_model",
+      "snippet": "A large language model is a language model trained with self-supervised learning on vast amounts of text, designed for natural language processing tasks such as generation, summarisation and question answering.",
+      "tags": ["large language models", "machine learning"]
+    },
+    {
+      "title": "Indian Premier League — official site",
+      "link": "https://www.iplt20.com/",
+      "snippet": "The IPL is a professional Twenty20 cricket league in India contested by ten city-based franchises. Find fixtures, results, points table and team squads.",
+      "tags": ["ipl points table", "chennai super kings", "india cricket team"]
+    },
+    {
+      "title": "Chennai Super Kings — Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Chennai_Super_Kings",
+      "snippet": "Chennai Super Kings is a franchise cricket team based in Chennai that plays in the IPL. Its home ground is the M. A. Chidambaram Stadium in Chepauk.",
+      "tags": ["chennai super kings", "ipl points table", "chepauk stadium"]
+    },
+    {
+      "title": "ISRO — Indian Space Research Organisation",
+      "link": "https://www.isro.gov.in/",
+      "snippet": "ISRO is India's national space agency. Explore missions including Chandrayaan-3, which landed near the lunar south pole in 2023, and Aditya-L1, India's first solar observatory.",
+      "tags": ["chandrayaan 3", "aditya l1", "gaganyaan"]
+    },
+    {
+      "title": "Chandrayaan-3 — Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Chandrayaan-3",
+      "snippet": "Chandrayaan-3 is the third mission in ISRO's lunar exploration programme. Its Vikram lander touched down near the Moon's south pole on 23 August 2023.",
+      "tags": ["chandrayaan 3", "isro missions"]
+    },
+    {
+      "title": "South Indian filter coffee — Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Indian_filter_coffee",
+      "snippet": "Filter coffee is a coffee drink made by mixing frothed and boiled milk with the infusion obtained by percolating finely ground coffee powder in a traditional metal filter.",
+      "tags": ["best filter coffee in chennai", "chicory coffee"]
+    },
+    {
+      "title": "Web accessibility — MDN",
+      "link": "https://developer.mozilla.org/en-US/docs/Learn/Accessibility",
+      "snippet": "Accessibility is the practice of making websites usable by as many people as possible. Learn semantic HTML, ARIA, keyboard focus and colour contrast.",
+      "tags": ["aria live region", "wcag contrast ratio"]
+    },
+    {
+      "title": "REST API design — best practices",
+      "link": "https://developer.mozilla.org/en-US/docs/Glossary/REST",
+      "snippet": "REST is a set of architectural constraints for building web APIs: resources identified by URLs, standard HTTP methods, stateless requests and meaningful status codes.",
+      "tags": ["http status codes", "fastapi tutorial"]
+    },
+    {
+      "title": "HTTP response status codes — MDN",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status",
+      "snippet": "HTTP response status codes indicate whether a request completed: informational (100–199), success (200–299), redirection (300–399), client errors (400–499) and server errors (500–599).",
+      "tags": ["http status codes", "409 conflict"]
+    }
+  ],
+
+  "knowledge": [
+    {
+      "match": ["chennai metro"],
+      "title": "Chennai Metro",
+      "type": "Rapid transit system",
+      "description": "Chennai Metro is a rapid transit system serving Chennai, Tamil Nadu. Phase 1 opened in stages from 2015; Phase 2 adds three new corridors across the city.",
+      "attributes": { "Operator": "Chennai Metro Rail Limited", "Lines (Phase 1)": "Blue, Green", "Opened": "29 June 2015", "Track gauge": "Standard gauge" }
+    },
+    {
+      "match": ["chennai"],
+      "title": "Chennai",
+      "type": "Capital of Tamil Nadu",
+      "description": "Chennai, formerly Madras, is the capital city of Tamil Nadu on the Coromandel Coast of the Bay of Bengal.",
+      "attributes": { "State": "Tamil Nadu", "Founded": "1639 (Madras)", "Language": "Tamil", "Known for": "Marina Beach, Carnatic music, IT corridor" }
+    },
+    {
+      "match": ["fastapi"],
+      "title": "FastAPI",
+      "type": "Python web framework",
+      "description": "FastAPI is a web framework for building HTTP APIs in Python, based on standard type hints and built on Starlette and Pydantic.",
+      "attributes": { "Created by": "Sebastián Ramírez", "Initial release": "2018", "Written in": "Python", "License": "MIT" }
+    },
+    {
+      "match": ["react"],
+      "title": "React",
+      "type": "JavaScript library",
+      "description": "React is a free and open-source front-end JavaScript library for building user interfaces based on components.",
+      "attributes": { "Original author": "Jordan Walke", "Developer": "Meta and community", "Initial release": "May 2013", "License": "MIT" }
+    },
+    {
+      "match": ["spring boot"],
+      "title": "Spring Boot",
+      "type": "Java framework",
+      "description": "Spring Boot is an extension of the Spring framework that simplifies building stand-alone, production-ready Java applications.",
+      "attributes": { "Developer": "VMware / Broadcom", "Initial release": "April 2014", "Written in": "Java", "License": "Apache 2.0" }
+    },
+    {
+      "match": ["python"],
+      "title": "Python",
+      "type": "Programming language",
+      "description": "Python is a high-level, general-purpose programming language whose design emphasises code readability with significant indentation.",
+      "attributes": { "Designed by": "Guido van Rossum", "First appeared": "1991", "Typing": "Dynamic, strong", "License": "PSF License" }
+    },
+    {
+      "match": ["kanchipuram"],
+      "title": "Kanchipuram",
+      "type": "City in Tamil Nadu",
+      "description": "Kanchipuram is a city in Tamil Nadu known as the city of a thousand temples and for its hand-woven silk sarees.",
+      "attributes": { "State": "Tamil Nadu", "Distance from Chennai": "About 70 km", "Known for": "Silk sarees, temples" }
+    },
+    {
+      "match": ["isro"],
+      "title": "ISRO",
+      "type": "Space agency",
+      "description": "The Indian Space Research Organisation is the national space agency of India, headquartered in Bengaluru.",
+      "attributes": { "Formed": "15 August 1969", "Headquarters": "Bengaluru", "Notable missions": "Chandrayaan-3, Mangalyaan, Aditya-L1" }
+    },
+    {
+      "match": ["docker"],
+      "title": "Docker",
+      "type": "Container platform",
+      "description": "Docker is a set of platform-as-a-service products that use OS-level virtualisation to deliver software in packages called containers.",
+      "attributes": { "Initial release": "March 2013", "Written in": "Go", "License": "Apache 2.0 (engine)" }
+    }
+  ],
+
+  "answers": [
+    { "match": ["capital", "tamil nadu"], "title": "Capital of Tamil Nadu", "answer": "Chennai", "link": "https://en.wikipedia.org/wiki/Chennai" },
+    { "match": ["chennai metro", "phase 2", "length"], "title": "Chennai Metro Phase 2 length", "answer": "About 116 km across three corridors", "link": "https://en.wikipedia.org/wiki/Chennai_Metro" },
+    { "match": ["chennai metro", "phase 2"], "title": "Chennai Metro Phase 2", "snippet": "Phase 2 adds three corridors — Madhavaram–SIPCOT, Poonamallee–Light House and Madhavaram–Sholinganallur — for roughly 116 km of new line.", "link": "https://en.wikipedia.org/wiki/Chennai_Metro" },
+    { "match": ["install", "fastapi"], "title": "Install FastAPI", "answer": "pip install \"fastapi[standard]\"", "link": "https://fastapi.tiangolo.com/#installation" },
+    { "match": ["run", "fastapi"], "title": "Run a FastAPI app", "answer": "uvicorn main:app --reload", "link": "https://fastapi.tiangolo.com/tutorial/first-steps/" },
+    { "match": ["python", "virtual environment"], "title": "Create a Python virtual environment", "answer": "python -m venv .venv", "link": "https://docs.python.org/3/library/venv.html" },
+    { "match": ["create", "react", "app"], "title": "Start a React app with Vite", "answer": "npm create vite@latest my-app -- --template react", "link": "https://vite.dev/guide/" },
+    { "match": ["chandrayaan", "landing"], "title": "Chandrayaan-3 landing date", "answer": "23 August 2023", "link": "https://en.wikipedia.org/wiki/Chandrayaan-3" },
+    { "match": ["marina beach", "length"], "title": "Length of Marina Beach", "answer": "About 6 km", "link": "https://en.wikipedia.org/wiki/Marina_Beach" },
+    { "match": ["409"], "title": "HTTP 409", "answer": "409 Conflict", "snippet": "The request conflicts with the current state of the target resource — for example, booking a seat someone else already holds.", "link": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/409" }
+  ],
+
+  "questions": [
+    { "question": "How many stations are in Chennai Metro Phase 2?", "snippet": "Phase 2 plans more than 120 stations across its three corridors, a mix of elevated and underground.", "link": "https://en.wikipedia.org/wiki/Chennai_Metro" },
+    { "question": "When will Chennai Metro Phase 2 open?", "snippet": "Sections are opening in stages; the Poonamallee–Porur stretch of Corridor 4 is among the first to be completed.", "link": "https://chennaimetrorail.org/" },
+    { "question": "What is Chennai famous for?", "snippet": "Marina Beach, Carnatic music, temples, filter coffee, the automobile industry and a large IT corridor.", "link": "https://en.wikipedia.org/wiki/Chennai" },
+    { "question": "How do I identify a pure Kanchipuram silk saree?", "snippet": "Look for the GI tag and silk mark, a separately woven border joined to the body, and real zari that shows red silk under the gold when scratched.", "link": "https://en.wikipedia.org/wiki/Kanchipuram_silk_sari" },
+    { "question": "Is FastAPI faster than Flask?", "snippet": "FastAPI runs on ASGI with async support and is generally faster than Flask under concurrent I/O-bound load.", "link": "https://fastapi.tiangolo.com/" },
+    { "question": "What is FastAPI used for?", "snippet": "Building HTTP APIs in Python — backends for web and mobile apps, ML model serving, and internal services.", "link": "https://fastapi.tiangolo.com/" },
+    { "question": "What are React hooks?", "snippet": "Hooks are functions like useState and useEffect that let function components use state and other React features.", "link": "https://react.dev/reference/react/hooks" },
+    { "question": "What is the difference between useEffect and useLayoutEffect?", "snippet": "useLayoutEffect fires synchronously after DOM mutations but before paint; useEffect runs after paint.", "link": "https://react.dev/reference/react/useLayoutEffect" },
+    { "question": "Is Spring Boot still worth learning?", "snippet": "Spring Boot remains one of the most widely used Java backend frameworks in enterprise software.", "link": "https://docs.spring.io/spring-boot/index.html" },
+    { "question": "What is the difference between Docker and Kubernetes?", "snippet": "Docker builds and runs containers; Kubernetes orchestrates many containers across a cluster of machines.", "link": "https://kubernetes.io/" },
+    { "question": "When should I use SQLite instead of PostgreSQL?", "snippet": "SQLite suits single-machine apps, prototypes and embedded use; PostgreSQL suits many concurrent writers and networked access.", "link": "https://www.sqlite.org/whentouse.html" },
+    { "question": "How does a search engine rank results?", "snippet": "Classic engines score documents with functions like BM25, combining term frequency, rarity and document length.", "link": "https://en.wikipedia.org/wiki/Okapi_BM25" },
+    { "question": "How do I create a virtual environment in Python?", "snippet": "Run python -m venv .venv, then activate it with .venv\\Scripts\\activate on Windows or source .venv/bin/activate on macOS and Linux.", "link": "https://docs.python.org/3/library/venv.html" },
+    { "question": "Where did Chandrayaan-3 land?", "snippet": "The Vikram lander touched down near the lunar south pole, at a site later named Shiv Shakti Point.", "link": "https://en.wikipedia.org/wiki/Chandrayaan-3" },
+    { "question": "Which is the home ground of Chennai Super Kings?", "snippet": "M. A. Chidambaram Stadium, Chepauk, Chennai.", "link": "https://en.wikipedia.org/wiki/Chennai_Super_Kings" }
+  ],
+
+  "news": [
+    { "title": "Chennai Metro Phase 2: Poonamallee–Porur stretch nears trial runs", "snippet": "Engineers are completing signalling and station finishing work on the first elevated section of Corridor 4.", "date": "2 days ago", "source": "Seekr Demo Desk", "link": "https://en.wikipedia.org/wiki/Chennai_Metro", "tags": "chennai metro phase 2 poonamallee porur" },
+    { "title": "Driverless trains planned for Chennai Metro's new corridors", "snippet": "Phase 2 rolling stock is designed for unattended train operation, a first for the city.", "date": "1 week ago", "source": "Seekr Demo Desk", "link": "https://chennaimetrorail.org/", "tags": "chennai metro driverless trains" },
+    { "title": "Kanchipuram weavers see festive-season demand for silk sarees", "snippet": "Handloom co-operatives report strong orders ahead of the wedding season.", "date": "3 days ago", "source": "Seekr Demo Desk", "link": "https://en.wikipedia.org/wiki/Kanchipuram_silk_sari", "tags": "kanchipuram silk sarees weavers" },
+    { "title": "Chennai's December music season line-up announced", "snippet": "Sabhas across Mylapore and T. Nagar publish schedules for the annual Carnatic music festival.", "date": "5 days ago", "source": "Seekr Demo Desk", "link": "https://en.wikipedia.org/wiki/Madras_Music_Season", "tags": "chennai music season carnatic" },
+    { "title": "FastAPI adds new features to its standard install", "snippet": "The fastapi[standard] extra bundles the CLI, uvicorn and common dependencies for new projects.", "date": "1 week ago", "source": "Seekr Demo Desk", "link": "https://fastapi.tiangolo.com/release-notes/", "tags": "fastapi release python" },
+    { "title": "React team publishes new guidance on effects", "snippet": "The docs recommend removing unnecessary effects and deriving state during render where possible.", "date": "2 weeks ago", "source": "Seekr Demo Desk", "link": "https://react.dev/learn/you-might-not-need-an-effect", "tags": "react hooks useeffect" },
+    { "title": "Spring Boot ships a new minor release with virtual thread improvements", "snippet": "The release continues Spring's work on Java 21 virtual threads and observability.", "date": "3 weeks ago", "source": "Seekr Demo Desk", "link": "https://spring.io/blog", "tags": "spring boot release java" },
+    { "title": "Python packaging: uv and pip both see faster installs", "snippet": "New resolver work cuts install times for large dependency trees.", "date": "4 days ago", "source": "Seekr Demo Desk", "link": "https://www.python.org/", "tags": "python pip packaging" },
+    { "title": "ISRO readies next Gaganyaan uncrewed test flight", "snippet": "The mission will test crew-module systems ahead of India's first human spaceflight.", "date": "6 days ago", "source": "Seekr Demo Desk", "link": "https://www.isro.gov.in/", "tags": "isro gaganyaan space" },
+    { "title": "Chandrayaan-3 data release opens lunar south pole findings to researchers", "snippet": "Instrument data from Vikram and Pragyan is now available through ISRO's science data archive.", "date": "2 weeks ago", "source": "Seekr Demo Desk", "link": "https://en.wikipedia.org/wiki/Chandrayaan-3", "tags": "chandrayaan isro moon" },
+    { "title": "Chennai Super Kings announce pre-season camp at Chepauk", "snippet": "Players will assemble in Chennai for a training block before the IPL season.", "date": "1 day ago", "source": "Seekr Demo Desk", "link": "https://en.wikipedia.org/wiki/Chennai_Super_Kings", "tags": "chennai super kings ipl cricket" },
+    { "title": "Docker Desktop update improves startup time on Windows", "snippet": "The release reduces memory use of the WSL 2 backend.", "date": "1 week ago", "source": "Seekr Demo Desk", "link": "https://www.docker.com/blog/", "tags": "docker windows" },
+    { "title": "Marina Beach loop road gets new pedestrian zones", "snippet": "The corporation is adding walkways and seating along the promenade.", "date": "4 days ago", "source": "Seekr Demo Desk", "link": "https://en.wikipedia.org/wiki/Marina_Beach", "tags": "marina beach chennai" }
+  ],
+
+  "videos": [
+    { "title": "Chennai Metro Phase 2 explained — every corridor on one map", "channel": "Seekr Demo Channel", "duration": "12:48", "link": "https://www.youtube.com/results?search_query=chennai+metro+phase+2", "tags": "chennai metro phase 2 route map" },
+    { "title": "Riding Chennai Metro end to end — Airport to Wimco Nagar", "channel": "Seekr Demo Channel", "duration": "24:10", "link": "https://www.youtube.com/results?search_query=chennai+metro+ride", "tags": "chennai metro ride" },
+    { "title": "How a Kanchipuram silk saree is woven", "channel": "Seekr Demo Channel", "duration": "9:32", "link": "https://www.youtube.com/results?search_query=kanchipuram+silk+weaving", "tags": "kanchipuram silk sarees weaving" },
+    { "title": "FastAPI in 30 minutes — build a REST API from scratch", "channel": "Seekr Demo Channel", "duration": "31:05", "link": "https://www.youtube.com/results?search_query=fastapi+tutorial", "tags": "fastapi tutorial python api" },
+    { "title": "FastAPI + React full-stack project walkthrough", "channel": "Seekr Demo Channel", "duration": "48:20", "link": "https://www.youtube.com/results?search_query=fastapi+react", "tags": "fastapi react full stack" },
+    { "title": "React hooks crash course — useState, useEffect, useRef", "channel": "Seekr Demo Channel", "duration": "27:14", "link": "https://www.youtube.com/results?search_query=react+hooks", "tags": "react hooks useeffect" },
+    { "title": "Vite in 100 seconds", "channel": "Seekr Demo Channel", "duration": "2:21", "link": "https://www.youtube.com/results?search_query=vite", "tags": "vite frontend tooling" },
+    { "title": "Spring Boot tutorial for beginners", "channel": "Seekr Demo Channel", "duration": "1:02:40", "link": "https://www.youtube.com/results?search_query=spring+boot+tutorial", "tags": "spring boot tutorial java" },
+    { "title": "Python virtual environments in 5 minutes", "channel": "Seekr Demo Channel", "duration": "5:08", "link": "https://www.youtube.com/results?search_query=python+venv", "tags": "python virtual environment venv" },
+    { "title": "Docker for beginners — containers explained", "channel": "Seekr Demo Channel", "duration": "18:45", "link": "https://www.youtube.com/results?search_query=docker+tutorial", "tags": "docker containers tutorial" },
+    { "title": "How search engines rank pages — BM25 visualised", "channel": "Seekr Demo Channel", "duration": "14:02", "link": "https://www.youtube.com/results?search_query=bm25+explained", "tags": "search engine bm25 ranking" },
+    { "title": "Chandrayaan-3 landing — the final 15 minutes", "channel": "Seekr Demo Channel", "duration": "16:30", "link": "https://www.youtube.com/results?search_query=chandrayaan+3+landing", "tags": "chandrayaan isro moon landing" },
+    { "title": "Mahabalipuram Shore Temple — a walking tour", "channel": "Seekr Demo Channel", "duration": "11:12", "link": "https://www.youtube.com/results?search_query=mahabalipuram", "tags": "mahabalipuram shore temple chennai" },
+    { "title": "Making South Indian filter coffee at home", "channel": "Seekr Demo Channel", "duration": "6:40", "link": "https://www.youtube.com/results?search_query=filter+coffee", "tags": "filter coffee chennai" }
+  ]
+}
